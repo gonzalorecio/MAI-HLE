@@ -18,6 +18,9 @@ pip install transformers     (for BERT models)
 pip install allennlp         (for ELMo models)
 ````
 
+## Code
+
+All needed code for training the models can be found in `Models.ipynb` (main notebook). `Preprocessing.ipynb` contains preprocessing, testing and helper code snippets.
 
 ## Model weights
 
