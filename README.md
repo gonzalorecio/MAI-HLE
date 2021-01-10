@@ -11,4 +11,9 @@ In this repository we focus on the implementation of the **Task 3: Question and 
 The **main objective** of this task is to filter and improve the ranking of automatically retrieved answers generated in the QA CHiQA system (https://chiqa.nlm.nih.gov/). 
 CHiQA is an experimental AI system that is learning how to answer health-related questions using reliable sources for patients.
 
+## Requisites
+`pip install torch`
+`pip install transformers (for BERT models)`
+`pip install allennlp (for ELMo models)`
+
 
